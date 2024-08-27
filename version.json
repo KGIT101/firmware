@@ -1,4 +1,4 @@
 {
     "version": "2.0.0",
-    "firmware_url": "http://192.168.96.16/firmware.bin"
+    "firmware_url": "http://github.com/KGIT101/firmware/releases/download/v2.0.0/firmware.bin"
 }
